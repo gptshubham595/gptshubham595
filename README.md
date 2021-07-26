@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is **Shubham Kumar Gupta** currently in 3rd year pursuing my bachelors degree in chemical engineering from Indian Institute of Technology, Guwahati . I am a Machine Learning and Scientific Computing enthusiast, technical blogger and I also like contributing to Open Source projects.
+This is **Shubham Kumar Gupta** currently in 4th year pursuing my bachelors degree in chemical engineering from Indian Institute of Technology, Guwahati . I am a Machine Learning and Scientific Computing enthusiast, technical blogger and I also like contributing to Open Source projects.
 
 #### Stuff I do/did:
 <img src="https://codein.withgoogle.com/static/img/og-image.png" alt="gci" width="75"/>
