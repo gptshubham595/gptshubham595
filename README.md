@@ -6,7 +6,7 @@ This is **Shubham Kumar Gupta** currently working as an Software Developer in OL
   
   
 #### Stuff I do/did:
-<img src="https://codein.withgoogle.com/static/img/og-image.png" alt="gci" width="75"/> <img src="https://www.python.org/static/community_logos/python-logo.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kiwix_logo_v3.svg/1200px-Kiwix_logo_v3.svg.png" alt="kiwix" width="75"/> <img src="https://avatars.githubusercontent.com/u/4621650?s=200&v=4" alt="gci" width="75"/> <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" alt="hactoberfest" width="75"></a>
+<img src="https://codein.withgoogle.com/static/img/og-image.png" alt="gci" width="75"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kiwix_logo_v3.svg/1200px-Kiwix_logo_v3.svg.png" alt="kiwix" width="75"/> <img src="https://avatars.githubusercontent.com/u/4621650?s=200&v=4" alt="gci" width="75"/> <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" alt="hactoberfest" width="105"></a>
 
 ![github stats](https://github-readme-streak-stats.herokuapp.com/?user=gptshubham595&&theme=merko&&hide_border=false)
 >The above stats may or may not be accurate...
